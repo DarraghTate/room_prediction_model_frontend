@@ -6,4 +6,6 @@ This model predicts the number of people present in a room at a given time.
 
 To use, navigate to the folder and execute the command <b><i>npm run serve</i></b>.
 
+Can be accessed online at <b><i>https://ait-user-prediction.herokuapp.com/</i></b>
+
 Built as part of my placement (internship) in the Software Research Institute of Athlone Institute of Technology, Ireland.
